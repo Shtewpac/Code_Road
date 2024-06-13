@@ -1,0 +1,9 @@
+pytest
+numpy
+Pillow
+numpy
+opencv-python
+mss
+pygetwindow
+google-cloud-vision
+adbnativeblitz

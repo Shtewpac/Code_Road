@@ -1,0 +1,2 @@
+# README
+This directory is part of the Poker Hand Detector project. It is intended for storing card detection functionalities, including algorithms for card contour detection, image preprocessing, and template matching using OpenCV. This module will dynamically load rank and suit images from the assets directory for template matching and include methods for extracting card ranks and suits from screenshots or video frames.
