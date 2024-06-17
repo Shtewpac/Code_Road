@@ -1,0 +1,10 @@
+{
+    "PARENT_PATH": "./parent_path",
+    "INPUT_PATH": "./input_path",
+    "SESSIONS_PATH": "./sessions_path",
+    "TEMP_PATH": "./temp_path",
+    "START_IMG": "start_image.jpg",
+    "END_IMG": "end_image.jpg",
+    "GOOGLE_CLOUD_VISION_API_KEY": "your_google_cloud_vision_api_key",
+    "OPENAI_API_KEY": "your_openai_api_key"
+}
